@@ -1,0 +1,14 @@
+/home/marvin/Desktop/_/c_sharp/ISE102_Assessment/bin/Debug/net8.0/ISE102_Assessment
+/home/marvin/Desktop/_/c_sharp/ISE102_Assessment/bin/Debug/net8.0/ISE102_Assessment.deps.json
+/home/marvin/Desktop/_/c_sharp/ISE102_Assessment/bin/Debug/net8.0/ISE102_Assessment.runtimeconfig.json
+/home/marvin/Desktop/_/c_sharp/ISE102_Assessment/bin/Debug/net8.0/ISE102_Assessment.dll
+/home/marvin/Desktop/_/c_sharp/ISE102_Assessment/bin/Debug/net8.0/ISE102_Assessment.pdb
+/home/marvin/Desktop/_/c_sharp/ISE102_Assessment/obj/Debug/net8.0/ISE102_Assessment.GeneratedMSBuildEditorConfig.editorconfig
+/home/marvin/Desktop/_/c_sharp/ISE102_Assessment/obj/Debug/net8.0/ISE102_Assessment.AssemblyInfoInputs.cache
+/home/marvin/Desktop/_/c_sharp/ISE102_Assessment/obj/Debug/net8.0/ISE102_Assessment.AssemblyInfo.cs
+/home/marvin/Desktop/_/c_sharp/ISE102_Assessment/obj/Debug/net8.0/ISE102_Assessment.csproj.CoreCompileInputs.cache
+/home/marvin/Desktop/_/c_sharp/ISE102_Assessment/obj/Debug/net8.0/ISE102_Assessment.dll
+/home/marvin/Desktop/_/c_sharp/ISE102_Assessment/obj/Debug/net8.0/refint/ISE102_Assessment.dll
+/home/marvin/Desktop/_/c_sharp/ISE102_Assessment/obj/Debug/net8.0/ISE102_Assessment.pdb
+/home/marvin/Desktop/_/c_sharp/ISE102_Assessment/obj/Debug/net8.0/ISE102_Assessment.genruntimeconfig.cache
+/home/marvin/Desktop/_/c_sharp/ISE102_Assessment/obj/Debug/net8.0/ref/ISE102_Assessment.dll
